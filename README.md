@@ -1,4 +1,4 @@
-# Hotel_management_system
+# Hotel_management_system - python
 
 This is a simple console based system which is very easy to understand and use.
 Talking about the system,
